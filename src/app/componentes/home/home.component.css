@@ -1,0 +1,24 @@
+.paralax{
+   background-image: url("../../../assets/prato.jpg"); 
+   background-position: center top;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   color: white;
+   padding-top:100px ;
+   padding-bottom:100px ;  
+}
+
+.font-10{
+    font-size: 10em !important;
+}
+
+.intro{
+    padding-top: 150px;
+}
+
+.choices{
+    padding-top: 50px;
+    padding-bottom:100px ;  
+
+}

@@ -1,0 +1,9 @@
+.footer{
+    padding-top: 80px;
+    width: 100%;
+    height: 150px;
+    background-image: linear-gradient(rgba(255, 233, 161, 0.521), rgba(255, 233, 161, 0.11));
+}
+.byMe{
+    padding-top: 20px;
+}
